@@ -4,7 +4,7 @@ using System.Threading;
 using System.Threading.Tasks;
 
 namespace Write_a_Simple_Parallel.For_Loop
-{
+{//6j#RTf&DXE
     class Program
     {
         static void Main()
