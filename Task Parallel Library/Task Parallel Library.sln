@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Write a Simple Parallel.For
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Write a Simple Parallel.ForEach Loop", "Write a Simple Parallel.ForEach Loop\Write a Simple Parallel.ForEach Loop.csproj", "{D13AA7D2-084D-427B-9E22-C4DCCBD3C207}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parallel.For Loop with Thread-Local Variables", "Parallel.For Loop with Thread-Local Variables\Parallel.For Loop with Thread-Local Variables.csproj", "{6558A71D-3BFA-4FEE-852A-924295C51612}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D13AA7D2-084D-427B-9E22-C4DCCBD3C207}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D13AA7D2-084D-427B-9E22-C4DCCBD3C207}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D13AA7D2-084D-427B-9E22-C4DCCBD3C207}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6558A71D-3BFA-4FEE-852A-924295C51612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6558A71D-3BFA-4FEE-852A-924295C51612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6558A71D-3BFA-4FEE-852A-924295C51612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6558A71D-3BFA-4FEE-852A-924295C51612}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
