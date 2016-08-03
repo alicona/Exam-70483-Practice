@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parallel.For Loop with Thre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pararllel.ForEach with Thread-Local variables", "Pararllel.ForEach with Thread-Local variables\Pararllel.ForEach with Thread-Local variables.csproj", "{B1FB1E52-C3CA-4D94-A9C7-CD7070C9CC65}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cancel Parallel Loop", "Cancel Parallel Loop\Cancel Parallel Loop.csproj", "{35E50B02-64A9-45BC-ACF8-9B8580067DBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Handle Exceptions in Parallel Loops", "Handle Exceptions in Parallel Loops\Handle Exceptions in Parallel Loops.csproj", "{3DD2E143-0FD9-4764-A127-867183F229D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{B1FB1E52-C3CA-4D94-A9C7-CD7070C9CC65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1FB1E52-C3CA-4D94-A9C7-CD7070C9CC65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1FB1E52-C3CA-4D94-A9C7-CD7070C9CC65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35E50B02-64A9-45BC-ACF8-9B8580067DBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35E50B02-64A9-45BC-ACF8-9B8580067DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35E50B02-64A9-45BC-ACF8-9B8580067DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35E50B02-64A9-45BC-ACF8-9B8580067DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DD2E143-0FD9-4764-A127-867183F229D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DD2E143-0FD9-4764-A127-867183F229D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DD2E143-0FD9-4764-A127-867183F229D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DD2E143-0FD9-4764-A127-867183F229D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
