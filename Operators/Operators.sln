@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorsOverload", "Operators\OperatorsOverload.csproj", "{804FCB0C-DBA9-4780-8441-174B637C14EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserDefinedCasts", "UserDefinedCasts\UserDefinedCasts.csproj", "{2A8808E6-37EE-4978-8E35-1A0FAEF24A09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{804FCB0C-DBA9-4780-8441-174B637C14EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{804FCB0C-DBA9-4780-8441-174B637C14EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{804FCB0C-DBA9-4780-8441-174B637C14EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A8808E6-37EE-4978-8E35-1A0FAEF24A09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A8808E6-37EE-4978-8E35-1A0FAEF24A09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A8808E6-37EE-4978-8E35-1A0FAEF24A09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A8808E6-37EE-4978-8E35-1A0FAEF24A09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
